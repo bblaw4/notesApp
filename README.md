@@ -1,2 +1,0 @@
-# notesApp
-Created with CodeSandbox
